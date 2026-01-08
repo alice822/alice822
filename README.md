@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alice822&label=Profile%20views&color=0e75b6&style=flat" alt="alice822" /> </p>
 
-- 🌱 I’m currently  **learning java full stack**
+- 🌱 I’m currently  **Learning Full Stack Development**
 
 - 📫 How to reach me **lamakshitiz498@gmail.com**
 
